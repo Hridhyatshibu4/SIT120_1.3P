@@ -8,7 +8,7 @@ const app = Vue.createApp({
           email: "hridhyatshibuh4@gmail.com",
           linkedin: "linkedin.com/in/hridhyatshibuh4",
           careerProfile: "A young and enthusiastic mind prepared to confront emerging challenges...",
-          // Add more resume details as needed
+
         },
       };
     },
